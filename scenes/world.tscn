@@ -327,7 +327,7 @@ shape = SubResource("BoxShape3D_310la")
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4.01567, 0.067512, 0.783567)
 
 [node name="portal2" type="Node3D" parent="." node_paths=PackedStringArray("spawn_point")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.2872, 1.05366, 14.0486)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.22052, 1.10754, 9.00373)
 script = ExtResource("3_d6anu")
 id = 1
 stage_id = 2
@@ -350,9 +350,9 @@ script = ExtResource("5_miq6h")
 anchors_preset = 5
 anchor_left = 0.5
 anchor_right = 0.5
-offset_left = -75.5
+offset_left = 500.5
 offset_top = -100.0
-offset_right = 75.4995
+offset_right = 651.5
 offset_bottom = -60.0
 grow_horizontal = 2
 color = Color(0, 0, 0, 0.647059)
